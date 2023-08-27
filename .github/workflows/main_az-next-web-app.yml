@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'az-next-web-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8189078C89FF4AE28E7B8FB835354E4D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BC2AD57625B4602A19C40DED52BCB9D }}
           package: .
